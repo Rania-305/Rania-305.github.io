@@ -1,4 +1,4 @@
-# Personal Website Proposal Notes
+# Personal Website Proposal
 
 ## Goal
 A clean, professional site that shows who I am, what I've built, and how to reach me. A recruiter, hiring manager, or collaborator should understand my story and see my best work within 60 seconds.
